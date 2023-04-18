@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMATP5_RijckaertTom", "IMATP5_RijckaertTom\IMATP5_RijckaertTom.csproj", "{FA1C3C2D-52CE-4426-8288-2CF1FB36FC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1C3C2D-52CE-4426-8288-2CF1FB36FC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1C3C2D-52CE-4426-8288-2CF1FB36FC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1C3C2D-52CE-4426-8288-2CF1FB36FC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1C3C2D-52CE-4426-8288-2CF1FB36FC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547069F1-30D6-445A-A8E4-825B14367EC4}
+	EndGlobalSection
+EndGlobal
